@@ -1,0 +1,134 @@
+{
+  "1": {
+    "Id": 1,
+    "Amount": 30,
+    "MaxHealth": 1,
+    "Prefab": "enemy01",
+    "HorizontalNum": 6,
+    "HorizontalSpacing": -40,
+    "Height": 70,
+    "VerticalSpacing": 0,
+    "IsThreaten": true
+  },
+  "2": {
+    "Id": 2,
+    "Amount": 1,
+    "MaxHealth": -10,
+    "Prefab": "gate",
+    "HorizontalNum": 2,
+    "HorizontalSpacing": 0,
+    "Height": 150,
+    "VerticalSpacing": 100,
+    "IsThreaten": true
+  },
+  "3": {
+    "Id": 3,
+    "Amount": 60,
+    "MaxHealth": 1,
+    "Prefab": "enemy01",
+    "HorizontalNum": 6,
+    "HorizontalSpacing": -45,
+    "Height": 70,
+    "VerticalSpacing": 300,
+    "IsThreaten": true
+  },
+  "4": {
+    "Id": 4,
+    "Amount": 1,
+    "MaxHealth": -20,
+    "Prefab": "gate",
+    "HorizontalNum": 2,
+    "HorizontalSpacing": 0,
+    "Height": 150,
+    "VerticalSpacing": 100,
+    "IsThreaten": true
+  },
+  "5": {
+    "Id": 5,
+    "Amount": 80,
+    "MaxHealth": 2,
+    "Prefab": "enemy01",
+    "HorizontalNum": 6,
+    "HorizontalSpacing": -45,
+    "Height": 70,
+    "VerticalSpacing": 200,
+    "IsThreaten": true
+  },
+  "6": {
+    "Id": 6,
+    "Amount": 1,
+    "MaxHealth": -30,
+    "Prefab": "gate",
+    "HorizontalNum": 2,
+    "HorizontalSpacing": 0,
+    "Height": 150,
+    "VerticalSpacing": 100,
+    "IsThreaten": true
+  },
+  "7": {
+    "Id": 7,
+    "Amount": 80,
+    "MaxHealth": 1,
+    "Prefab": "enemy01",
+    "HorizontalNum": 6,
+    "HorizontalSpacing": -45,
+    "Height": 70,
+    "VerticalSpacing": 200,
+    "IsThreaten": true
+  },
+  "8": {
+    "Id": 8,
+    "Amount": 1,
+    "MaxHealth": 888,
+    "Prefab": "enemy02",
+    "HorizontalNum": 1,
+    "HorizontalSpacing": 0,
+    "Height": 220,
+    "VerticalSpacing": 100,
+    "IsThreaten": true
+  },
+  "9": {
+    "Id": 9,
+    "Amount": 3,
+    "MaxHealth": 200,
+    "Prefab": "tank01",
+    "HorizontalNum": 1,
+    "HorizontalSpacing": 0,
+    "Height": 130,
+    "VerticalSpacing": -80,
+    "IsThreaten": false
+  },
+  "10": {
+    "Id": 10,
+    "Amount": 1,
+    "MaxHealth": 634,
+    "Prefab": "tank02",
+    "HorizontalNum": 1,
+    "HorizontalSpacing": 0,
+    "Height": 130,
+    "VerticalSpacing": -80,
+    "IsThreaten": false
+  },
+  "11": {
+    "Id": 11,
+    "Amount": 2,
+    "MaxHealth": 150,
+    "Prefab": "tank01",
+    "HorizontalNum": 1,
+    "HorizontalSpacing": 0,
+    "Height": 130,
+    "VerticalSpacing": -80,
+    "IsThreaten": false
+  },
+  "12": {
+    "Id": 12,
+    "Amount": 1,
+    "MaxHealth": 1500,
+    "Prefab": "obstruction",
+    "HorizontalNum": 1,
+    "HorizontalSpacing": 0,
+    "Height": 130,
+    "VerticalSpacing": 100,
+    "IsThreaten": false
+  }
+}

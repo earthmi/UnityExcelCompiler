@@ -1,0 +1,18 @@
+{
+    "Item":
+    {
+        "ClassName":"Item",
+        "Fields":[
+            "Id:int",
+            "Value:int"
+        ]
+    },
+    "Position":
+    {
+        "ClassName":"Position",
+        "Fields":[
+            "x:float",
+            "y:float"
+        ]
+    }
+}

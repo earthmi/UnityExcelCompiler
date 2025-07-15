@@ -1,0 +1,20 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "很牛逼的子弹1",
+    "Damage": 1,
+    "Prefab": "bullet",
+    "Sound": "weapon1Shot",
+    "FireInterval": 0.2,
+    "Speed": 8
+  },
+  "2": {
+    "Id": 2,
+    "Name": "很牛逼的子弹2",
+    "Damage": 2,
+    "Prefab": "bullet",
+    "Sound": "weapon2Shot",
+    "FireInterval": 0.4,
+    "Speed": 10
+  }
+}
