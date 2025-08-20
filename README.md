@@ -6,4 +6,5 @@
 - 5.c#数据类序列化成二进制存于unity工程，作为资源
 - 6.Runtime读取二进制文件
 - 7.Runtime反序列化成c#数据类
-
+# excel2Json仓库
+- https://github.com/neil3d/excel2json
