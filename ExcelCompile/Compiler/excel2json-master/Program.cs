@@ -22,10 +22,12 @@ namespace excel2json
         [STAThread]
         static void Main(string[] args)
         {
-            /*
-             * Debug专用
-             */
-            // args = new[] { "--export","D:\\unityCreate\\221RogeLike\\ExcelCompile" };
+
+            // #region Debug专用
+            //
+            // args = new[] { "--export","E:\\UnityProjects\\T5GZ90U_Squeeze\\T5GZ90U_Squeeze\\ExcelCompile" };
+            //
+            // #endregion
             if (args!=null && args.Length ==2)
             {
                 string excelCompileRoot = args[1];

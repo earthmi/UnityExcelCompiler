@@ -109,6 +109,10 @@ namespace excel2json
             {
                 DataRow row = sheet.Rows[i];
                 string ID = row[sheet.Columns[0]].ToString();
+                if (ID.Contains("#"))
+                {
+                    continue;
+                }
                 if (ID.Length <= 0)
                     ID = $"row_{i}";
 
