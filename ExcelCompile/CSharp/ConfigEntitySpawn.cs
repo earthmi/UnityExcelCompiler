@@ -17,6 +17,9 @@ namespace ExcelTable
 		public int Height {get; set;} // 高度
 		public int VerticalSpacing {get; set;} // 垂直间隔
 		public bool IsThreaten {get; set;} // 是敌人？
+		public string[] Test1 {get; set;} // 但
+		public int[] Test2 {get; set;} // ssss
+		public DataTable_Item Test3 {get; set;} // ssss
     }
 
 }

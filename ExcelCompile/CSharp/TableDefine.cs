@@ -9,8 +9,6 @@ namespace ExcelTable
         public static Dictionary<Type, string> BindingJson = new()
         {
 			{typeof(ConfigEntitySpawn),"EntitySpawn"},
-			{typeof(ConfigHeroSkin),"HeroSkin"},
-			{typeof(ConfigHeroWeapon),"HeroWeapon"},
 
         };
     }

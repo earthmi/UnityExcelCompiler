@@ -25,7 +25,7 @@ namespace excel2json
 
             // #region Debug专用
             //
-            // args = new[] { "--export","E:\\UnityProjects\\T5GZ90U_Squeeze\\T5GZ90U_Squeeze\\ExcelCompile" };
+            // args = new[] { "--export","E:\\UnityProjects\\UnityExcelCompiler\\ExcelCompile" };
             //
             // #endregion
             if (args!=null && args.Length ==2)

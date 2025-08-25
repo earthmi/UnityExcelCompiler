@@ -127,6 +127,7 @@ namespace excel2json
 
         string GetJsonFormat(string source,string realType,bool isArray,ExtraFieldInfo extraFieldInfo=null)
         {
+
             if (!isArray && extraFieldInfo == null)
             {
                 return source;
@@ -134,7 +135,10 @@ namespace excel2json
             StringBuilder sb = new StringBuilder();
             if (isArray)
             {
-                
+                if (string.IsNullOrEmpty(source))
+                {
+                    return "[]";
+                }
                 var array = source.Split(';');
                 if (array.Length <= 0)
                 {
